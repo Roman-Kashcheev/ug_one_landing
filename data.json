@@ -1,0 +1,811 @@
+{
+	"products": [
+		{
+			"name": "ТВЕРДОСПЛАВНЫЕ, СФЕРИЧЕСКИЕ С 2 ЗУБЬЯМИ (короткий, средний, длинный хвостовик)",
+			"group1": {
+				"material": "carbide",
+				"tails": "2"
+			},
+			"group2": [
+				{
+					"article": "SEMD98001SE",
+					"radius": "0.05",
+					"cutter diameter": "0.1",
+					"shank diameter": "4",
+					"cutting length": "0.1",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98001E",
+					"radius": "0.05",
+					"cutter diameter": "0.1",
+					"shank diameter": "4",
+					"cutting length": "0.2",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980013SE",
+					"radius": "0.05",
+					"cutter diameter": "0.1",
+					"shank diameter": "3",
+					"cutting length": "0.2",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD980015SE",
+					"radius": "0.075",
+					"cutter diameter": "0.15",
+					"shank diameter": "4",
+					"cutting length": "0.15",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980015E",
+					"radius": "0.075",
+					"cutter diameter": "0.15",
+					"shank diameter": "4",
+					"cutting length": "0.3",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD9800153SE",
+					"radius": "0.075",
+					"cutter diameter": "0.15",
+					"shank diameter": "3",
+					"cutting length": "0.3",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98002SE",
+					"radius": "0.1",
+					"cutter diameter": "0.2",
+					"shank diameter": "4",
+					"cutting length": "0.2",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98002E",
+					"radius": "0.1",
+					"cutter diameter": "0.2",
+					"shank diameter": "4",
+					"cutting length": "0.4",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980023SE",
+					"radius": "0.1",
+					"cutter diameter": "0.2",
+					"shank diameter": "3",
+					"cutting length": "0.4",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98003SE",
+					"radius": "0.15",
+					"cutter diameter": "0.3",
+					"shank diameter": "4",
+					"cutting length": "0.3",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98003E",
+					"radius": "0.15",
+					"cutter diameter": "0.3",
+					"shank diameter": "4",
+					"cutting length": "0.6",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980033SE",
+					"radius": "0.15",
+					"cutter diameter": "0.3",
+					"shank diameter": "3",
+					"cutting length": "0.6",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98004SE",
+					"radius": "0.2",
+					"cutter diameter": "0.4",
+					"shank diameter": "4",
+					"cutting length": "0.4",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98004E",
+					"radius": "0.2",
+					"cutter diameter": "0.4",
+					"shank diameter": "4",
+					"cutting length": "0.8",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980043SE",
+					"radius": "0.2",
+					"cutter diameter": "0.4",
+					"shank diameter": "3",
+					"cutting length": "0.8",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98005SE",
+					"radius": "0.25",
+					"cutter diameter": "0.5",
+					"shank diameter": "4",
+					"cutting length": "0.5",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98005S6SE",
+					"radius": "0.25",
+					"cutter diameter": "0.5",
+					"shank diameter": "6",
+					"cutting length": "0.8",
+					"total length": "40"
+				},
+				{
+					"article": "SEMD98005E",
+					"radius": "0.25",
+					"cutter diameter": "0.5",
+					"shank diameter": "4",
+					"cutting length": "1.0",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980053SE",
+					"radius": "0.25",
+					"cutter diameter": "0.5",
+					"shank diameter": "3",
+					"cutting length": "1.0",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98006SE",
+					"radius": "0.3",
+					"cutter diameter": "0.6",
+					"shank diameter": "4",
+					"cutting length": "0.6",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98006E",
+					"radius": "0.3",
+					"cutter diameter": "0.6",
+					"shank diameter": "4",
+					"cutting length": "1.2",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980063SE",
+					"radius": "0.3",
+					"cutter diameter": "0.6",
+					"shank diameter": "3",
+					"cutting length": "1.2",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98007SE",
+					"radius": "0.35",
+					"cutter diameter": "0.7",
+					"shank diameter": "4",
+					"cutting length": "0.7",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98007E",
+					"radius": "0.35",
+					"cutter diameter": "0.7",
+					"shank diameter": "4",
+					"cutting length": "1.4",
+					"total length": "40",
+					"note": "ordinary"
+				}
+			],
+			"group3": [
+				{
+					"col1": "2",
+					"col2": "2",
+					"col3": "2",
+					"col4": "1",
+					"col5": "1",
+					"col6": "2",
+					"col7": "1",
+					"col8": "1",
+					"col9": "1",
+					"col10": "2",
+					"col11": "1",
+					"col12": "3",
+					"col13": "3",
+					"col14": "3",
+					"col15": "2",
+					"col16": "2",
+					"col17": "2",
+					"col18": "2",
+					"col19": "2",
+					"col20": "2",
+					"col21": "3",
+					"col22": "3",
+					"col23": "3",
+					"col24": "3",
+					"col25": "3",
+					"col26": "3",
+					"col27": "3",
+					"col28": "3",
+					"col29": "3",
+					"col30": "3",
+					"col31": "3",
+					"col32": "3",
+					"col33": "3",
+					"col34": "3",
+					"col35": "3",
+					"col36": "3",
+					"col37": "3",
+					"col38": "2",
+					"col39": "3",
+					"col40": "1",
+					"col41": "2"
+				}
+			]
+		},
+		{
+			"name": "ТВЕРДОСПЛАВНЫЕ, СФЕРИЧЕСКИЕ С 2 ЗУБЬЯМИ (короткий, средний, длинный хвостовик)",
+			"group1": {
+				"material": "carbide",
+				"tails": "2"
+			},
+			"group2": [
+				{
+					"article": "SEMD980073SE",
+					"radius": "0.35",
+					"cutter diameter": "0.7",
+					"shank diameter": "3",
+					"cutting length": "1.4",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98008SE",
+					"radius": "0.4",
+					"cutter diameter": "0.8",
+					"shank diameter": "4",
+					"cutting length": "0.8",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98008E",
+					"radius": "0.4",
+					"cutter diameter": "0.8",
+					"shank diameter": "4",
+					"cutting length": "1.6",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980083SE",
+					"radius": "0.4",
+					"cutter diameter": "0.8",
+					"shank diameter": "3",
+					"cutting length": "1.6",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98009SE",
+					"radius": "0.45",
+					"cutter diameter": "0.9",
+					"shank diameter": "4",
+					"cutting length": "0.9",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD98009E",
+					"radius": "0.45",
+					"cutter diameter": "0.9",
+					"shank diameter": "4",
+					"cutting length": "1.8",
+					"total length": "40",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD980093SE",
+					"radius": "0.45",
+					"cutter diameter": "0.9",
+					"shank diameter": "3",
+					"cutting length": "1.8",
+					"total length": "40",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98010040E",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "6",
+					"cutting length": "1.5",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980103SE",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "3",
+					"cutting length": "2.5",
+					"total length": "50",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD98010S4SE",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "4",
+					"cutting length": "1.5",
+					"total length": "40"
+				},
+				{
+					"article": "SEMD980104SE",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "4",
+					"cutting length": "2.5",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98010E",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "6",
+					"cutting length": "2.5",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98010070E",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "6",
+					"cutting length": "2.5",
+					"total length": "70",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98010100E",
+					"radius": "0.5",
+					"cutter diameter": "1.0",
+					"shank diameter": "6",
+					"cutting length": "2.5",
+					"total length": "100",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98012040E",
+					"radius": "0.6",
+					"cutter diameter": "1.2",
+					"shank diameter": "6",
+					"cutting length": "2.0",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980123SE",
+					"radius": "0.6",
+					"cutter diameter": "1.2",
+					"shank diameter": "3",
+					"cutting length": "3.0",
+					"total length": "50",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD980124SE",
+					"radius": "0.6",
+					"cutter diameter": "1.2",
+					"shank diameter": "4",
+					"cutting length": "3.0",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98012E",
+					"radius": "0.6",
+					"cutter diameter": "1.2",
+					"shank diameter": "6",
+					"cutting length": "3.0",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98012070E",
+					"radius": "0.6",
+					"cutter diameter": "1.2",
+					"shank diameter": "6",
+					"cutting length": "3.0",
+					"total length": "40",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98012100E",
+					"radius": "0.6",
+					"cutter diameter": "1.2",
+					"shank diameter": "6",
+					"cutting length": "3.0",
+					"total length": "100",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98015040E",
+					"radius": "0.75",
+					"cutter diameter": "1.5",
+					"shank diameter": "6",
+					"cutting length": "2.5",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980153SE",
+					"radius": "0.75",
+					"cutter diameter": "1.5",
+					"shank diameter": "3",
+					"cutting length": "4.0",
+					"total length": "50",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD980154SE",
+					"radius": "0.75",
+					"cutter diameter": "1.5",
+					"shank diameter": "4",
+					"cutting length": "4.0",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98015E",
+					"radius": "0.75",
+					"cutter diameter": "1.5",
+					"shank diameter": "6",
+					"cutting length": "4.0",
+					"total length": "50",
+					"note": "ordinary"
+				}
+			],
+			"group3": [
+				{
+					"col1": "2",
+					"col2": "2",
+					"col3": "2",
+					"col4": "1",
+					"col5": "1",
+					"col6": "2",
+					"col7": "1",
+					"col8": "1",
+					"col9": "1",
+					"col10": "2",
+					"col11": "1",
+					"col12": "3",
+					"col13": "3",
+					"col14": "3",
+					"col15": "3",
+					"col16": "3",
+					"col17": "3",
+					"col18": "3",
+					"col19": "3",
+					"col20": "3",
+					"col21": "3",
+					"col22": "3",
+					"col23": "3",
+					"col24": "3",
+					"col25": "3",
+					"col26": "3",
+					"col27": "3",
+					"col28": "3",
+					"col29": "3",
+					"col30": "3",
+					"col31": "3",
+					"col32": "3",
+					"col33": "3",
+					"col34": "3",
+					"col35": "3",
+					"col36": "3",
+					"col37": "3",
+					"col38": "2",
+					"col39": "3",
+					"col40": "1",
+					"col41": "2"
+				}
+			]
+		},
+		{
+			"name": "ТВЕРДОСПЛАВНЫЕ, СФЕРИЧЕСКИЕ С 2 ЗУБЬЯМИ (короткий, средний, длинный хвостовик)",
+			"group1": {
+				"material": "carbide",
+				"tails": "2"
+			},
+			"group2": [
+				{
+					"article": "SEMD98015070E",
+					"radius": "0.75",
+					"cutter diameter": "1.5",
+					"shank diameter": "6",
+					"cutting length": "4.0",
+					"total length": "70",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98015100E",
+					"radius": "0.75",
+					"cutter diameter": "1.5",
+					"shank diameter": "6",
+					"cutting length": "4.0",
+					"total length": "100",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98020040E",
+					"radius": "1.0",
+					"cutter diameter": "2.0",
+					"shank diameter": "6",
+					"cutting length": "3.0",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980203SE",
+					"radius": "1.0",
+					"cutter diameter": "2.0",
+					"shank diameter": "3",
+					"cutting length": "5.0",
+					"total length": "50",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD980204SE",
+					"radius": "1.0",
+					"cutter diameter": "2.0",
+					"shank diameter": "4",
+					"cutting length": "5.0",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98020E",
+					"radius": "1.0",
+					"cutter diameter": "2.0",
+					"shank diameter": "6",
+					"cutting length": "5.0",
+					"total length": "50",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98020080E",
+					"radius": "1.0",
+					"cutter diameter": "2.0",
+					"shank diameter": "6",
+					"cutting length": "5.0",
+					"total length": "80",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98020100E",
+					"radius": "1.0",
+					"cutter diameter": "2.0",
+					"shank diameter": "6",
+					"cutting length": "5.0",
+					"total length": "100",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98025040E",
+					"radius": "1.25",
+					"cutter diameter": "2.5",
+					"shank diameter": "6",
+					"cutting length": "4.0",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980253SE",
+					"radius": "1.25",
+					"cutter diameter": "2.5",
+					"shank diameter": "3",
+					"cutting length": "6.0",
+					"total length": "60",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD980254SE",
+					"radius": "1.25",
+					"cutter diameter": "2.5",
+					"shank diameter": "6",
+					"cutting length": "4",
+					"total length": "60",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98025E",
+					"radius": "1.25",
+					"cutter diameter": "2.5",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "60",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98025080E",
+					"radius": "1.25",
+					"cutter diameter": "2.5",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "80",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98025100E",
+					"radius": "1.25",
+					"cutter diameter": "2.5",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "100",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98030040E",
+					"radius": "1.5",
+					"cutter diameter": "3.0",
+					"shank diameter": "6",
+					"cutting length": "4.5",
+					"total length": "40",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980303SE",
+					"radius": "1.5",
+					"cutter diameter": "3.0",
+					"shank diameter": "3",
+					"cutting length": "6",
+					"total length": "60",
+					"note": "3mm shank"
+				},
+				{
+					"article": "SEMD980304SE",
+					"radius": "1.5",
+					"cutter diameter": "3.0",
+					"shank diameter": "4",
+					"cutting length": "6",
+					"total length": "60",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98030E",
+					"radius": "1.5",
+					"cutter diameter": "3.0",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "60",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98030080E",
+					"radius": "1.5",
+					"cutter diameter": "3.0",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "80",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98030100E",
+					"radius": "1.5",
+					"cutter diameter": "3.0",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "100",
+					"note": "long shank"
+				},
+				{
+					"article": "SEMD98035E",
+					"radius": "1.75",
+					"cutter diameter": "3.5",
+					"shank diameter": "6",
+					"cutting length": "8",
+					"total length": "70"
+				},
+				{
+					"article": "SEMD98040050E",
+					"radius": "2.0",
+					"cutter diameter": "4.0",
+					"shank diameter": "6",
+					"cutting length": "6",
+					"total length": "50",
+					"note": "short"
+				},
+				{
+					"article": "SEMD980404SE",
+					"radius": "2.0",
+					"cutter diameter": "4.0",
+					"shank diameter": "4",
+					"cutting length": "8",
+					"total length": "70",
+					"note": "ordinary"
+				},
+				{
+					"article": "SEMD98040E",
+					"radius": "2.0",
+					"cutter diameter": "4.0",
+					"shank diameter": "6",
+					"cutting length": "8",
+					"total length": "70",
+					"note": "ordinary"
+				}
+			],
+			"group3": [
+				{
+					"col1": "2",
+					"col2": "2",
+					"col3": "2",
+					"col4": "1",
+					"col5": "1",
+					"col6": "2",
+					"col7": "1",
+					"col8": "1",
+					"col9": "1",
+					"col10": "2",
+					"col11": "1",
+					"col12": "3",
+					"col13": "3",
+					"col14": "3",
+					"col15": "2",
+					"col16": "2",
+					"col17": "2",
+					"col18": "2",
+					"col19": "2",
+					"col20": "2",
+					"col21": "3",
+					"col22": "3",
+					"col23": "3",
+					"col24": "3",
+					"col25": "3",
+					"col26": "3",
+					"col27": "3",
+					"col28": "3",
+					"col29": "3",
+					"col30": "3",
+					"col31": "3",
+					"col32": "3",
+					"col33": "3",
+					"col34": "3",
+					"col35": "3",
+					"col36": "3",
+					"col37": "3",
+					"col38": "2",
+					"col39": "3",
+					"col40": "1",
+					"col41": "2"
+				}
+			]
+		}
+	]
+}
