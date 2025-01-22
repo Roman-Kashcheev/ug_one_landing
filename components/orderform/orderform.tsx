@@ -52,7 +52,6 @@ function OrderForm() {
                             rules={{ required: 'Телефон обязателен' }}
                             render={({ field }) => (
                                 <ReactPhoneInput
-                                    inputClass='text-black'
                                     {...field}
                                     country={'ru'}
                                     enableSearch={true}
@@ -81,6 +80,7 @@ function OrderForm() {
                         />
 
                         <Button 
+                        className=''
                         onClick={handleClick}
                          type="submit" variant="contained" color="primary" sx={{ mt: 2 }}>
                             Оформить заказ
