@@ -14,7 +14,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.1",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98001E",
@@ -23,7 +23,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.2",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980013SE",
@@ -32,7 +32,7 @@
 					"shank diameter": "3",
 					"cutting length": "0.2",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD980015SE",
@@ -41,7 +41,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.15",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980015E",
@@ -50,7 +50,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.3",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD9800153SE",
@@ -59,7 +59,7 @@
 					"shank diameter": "3",
 					"cutting length": "0.3",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98002SE",
@@ -68,7 +68,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.2",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98002E",
@@ -77,7 +77,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.4",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980023SE",
@@ -86,7 +86,7 @@
 					"shank diameter": "3",
 					"cutting length": "0.4",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98003SE",
@@ -95,7 +95,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.3",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98003E",
@@ -104,7 +104,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.6",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980033SE",
@@ -113,7 +113,7 @@
 					"shank diameter": "3",
 					"cutting length": "0.6",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98004SE",
@@ -122,7 +122,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.4",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98004E",
@@ -131,7 +131,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.8",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980043SE",
@@ -140,7 +140,7 @@
 					"shank diameter": "3",
 					"cutting length": "0.8",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98005SE",
@@ -149,7 +149,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.5",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98005S6SE",
@@ -166,7 +166,7 @@
 					"shank diameter": "4",
 					"cutting length": "1.0",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980053SE",
@@ -175,7 +175,7 @@
 					"shank diameter": "3",
 					"cutting length": "1.0",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98006SE",
@@ -184,7 +184,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.6",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98006E",
@@ -193,7 +193,7 @@
 					"shank diameter": "4",
 					"cutting length": "1.2",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980063SE",
@@ -202,7 +202,7 @@
 					"shank diameter": "3",
 					"cutting length": "1.2",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98007SE",
@@ -211,7 +211,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.7",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98007E",
@@ -220,7 +220,7 @@
 					"shank diameter": "4",
 					"cutting length": "1.4",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				}
 			],
 			"group3": [
@@ -283,7 +283,7 @@
 					"shank diameter": "3",
 					"cutting length": "1.4",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98008SE",
@@ -292,7 +292,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.8",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98008E",
@@ -301,7 +301,7 @@
 					"shank diameter": "4",
 					"cutting length": "1.6",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980083SE",
@@ -310,7 +310,7 @@
 					"shank diameter": "3",
 					"cutting length": "1.6",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98009SE",
@@ -319,7 +319,7 @@
 					"shank diameter": "4",
 					"cutting length": "0.9",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD98009E",
@@ -328,7 +328,7 @@
 					"shank diameter": "4",
 					"cutting length": "1.8",
 					"total length": "40",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD980093SE",
@@ -337,7 +337,7 @@
 					"shank diameter": "3",
 					"cutting length": "1.8",
 					"total length": "40",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98010040E",
@@ -346,7 +346,7 @@
 					"shank diameter": "6",
 					"cutting length": "1.5",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980103SE",
@@ -355,7 +355,7 @@
 					"shank diameter": "3",
 					"cutting length": "2.5",
 					"total length": "50",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD98010S4SE",
@@ -372,7 +372,7 @@
 					"shank diameter": "4",
 					"cutting length": "2.5",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98010E",
@@ -381,7 +381,7 @@
 					"shank diameter": "6",
 					"cutting length": "2.5",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98010070E",
@@ -390,7 +390,7 @@
 					"shank diameter": "6",
 					"cutting length": "2.5",
 					"total length": "70",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98010100E",
@@ -399,7 +399,7 @@
 					"shank diameter": "6",
 					"cutting length": "2.5",
 					"total length": "100",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98012040E",
@@ -408,7 +408,7 @@
 					"shank diameter": "6",
 					"cutting length": "2.0",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980123SE",
@@ -417,7 +417,7 @@
 					"shank diameter": "3",
 					"cutting length": "3.0",
 					"total length": "50",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD980124SE",
@@ -426,7 +426,7 @@
 					"shank diameter": "4",
 					"cutting length": "3.0",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98012E",
@@ -435,7 +435,7 @@
 					"shank diameter": "6",
 					"cutting length": "3.0",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98012070E",
@@ -444,7 +444,7 @@
 					"shank diameter": "6",
 					"cutting length": "3.0",
 					"total length": "40",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98012100E",
@@ -453,7 +453,7 @@
 					"shank diameter": "6",
 					"cutting length": "3.0",
 					"total length": "100",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98015040E",
@@ -462,7 +462,7 @@
 					"shank diameter": "6",
 					"cutting length": "2.5",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980153SE",
@@ -471,7 +471,7 @@
 					"shank diameter": "3",
 					"cutting length": "4.0",
 					"total length": "50",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD980154SE",
@@ -480,7 +480,7 @@
 					"shank diameter": "4",
 					"cutting length": "4.0",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98015E",
@@ -489,7 +489,7 @@
 					"shank diameter": "6",
 					"cutting length": "4.0",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				}
 			],
 			"group3": [
@@ -552,7 +552,7 @@
 					"shank diameter": "6",
 					"cutting length": "4.0",
 					"total length": "70",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98015100E",
@@ -561,7 +561,7 @@
 					"shank diameter": "6",
 					"cutting length": "4.0",
 					"total length": "100",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98020040E",
@@ -570,7 +570,7 @@
 					"shank diameter": "6",
 					"cutting length": "3.0",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980203SE",
@@ -579,7 +579,7 @@
 					"shank diameter": "3",
 					"cutting length": "5.0",
 					"total length": "50",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD980204SE",
@@ -588,7 +588,7 @@
 					"shank diameter": "4",
 					"cutting length": "5.0",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98020E",
@@ -597,7 +597,7 @@
 					"shank diameter": "6",
 					"cutting length": "5.0",
 					"total length": "50",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98020080E",
@@ -606,7 +606,7 @@
 					"shank diameter": "6",
 					"cutting length": "5.0",
 					"total length": "80",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98020100E",
@@ -615,7 +615,7 @@
 					"shank diameter": "6",
 					"cutting length": "5.0",
 					"total length": "100",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98025040E",
@@ -624,7 +624,7 @@
 					"shank diameter": "6",
 					"cutting length": "4.0",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980253SE",
@@ -633,7 +633,7 @@
 					"shank diameter": "3",
 					"cutting length": "6.0",
 					"total length": "60",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD980254SE",
@@ -642,7 +642,7 @@
 					"shank diameter": "6",
 					"cutting length": "4",
 					"total length": "60",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98025E",
@@ -651,7 +651,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "60",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98025080E",
@@ -660,7 +660,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "80",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98025100E",
@@ -669,7 +669,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "100",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98030040E",
@@ -678,7 +678,7 @@
 					"shank diameter": "6",
 					"cutting length": "4.5",
 					"total length": "40",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980303SE",
@@ -687,7 +687,7 @@
 					"shank diameter": "3",
 					"cutting length": "6",
 					"total length": "60",
-					"note": "3mm shank"
+					"note": "3мм хвостовик"
 				},
 				{
 					"article": "SEMD980304SE",
@@ -696,7 +696,7 @@
 					"shank diameter": "4",
 					"cutting length": "6",
 					"total length": "60",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98030E",
@@ -705,7 +705,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "60",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98030080E",
@@ -714,7 +714,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "80",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98030100E",
@@ -723,7 +723,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "100",
-					"note": "long shank"
+					"note": "Длин. хвостовик"
 				},
 				{
 					"article": "SEMD98035E",
@@ -740,7 +740,7 @@
 					"shank diameter": "6",
 					"cutting length": "6",
 					"total length": "50",
-					"note": "short"
+					"note": "Короткие"
 				},
 				{
 					"article": "SEMD980404SE",
@@ -749,7 +749,7 @@
 					"shank diameter": "4",
 					"cutting length": "8",
 					"total length": "70",
-					"note": "ordinary"
+					"note": "Обычные"
 				},
 				{
 					"article": "SEMD98040E",
@@ -758,7 +758,7 @@
 					"shank diameter": "6",
 					"cutting length": "8",
 					"total length": "70",
-					"note": "ordinary"
+					"note": "Обычные"
 				}
 			],
 			"group3": [
